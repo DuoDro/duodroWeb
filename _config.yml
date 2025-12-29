@@ -1,20 +1,20 @@
 ## Site Meta ##
 # The title of the website.
-title: "Lens - Elastic Designs"
+title: "DuoDro - Jasper Lumi"
 # The description of the website
-description: "A Jekyll theme for photographers and photo bloggers."
+description: "Nature pictures taken in Estonia"
 # Keywords/tags for you site.
 keywords: "lens, jeykll-lens, jekyll, theme, jekyll-theme, photography, blog, photography-blog, photo-blog"
 # Your copyright message.
-copyright: "Copyright &copy; 2017 - Elastic Designs."
+copyright: "Jasper Lumi 2025"
 
 ## Site Configurations ##
 # 1st heading of the site.
-header: "Lens"
+header: "Jasper Lumi"
 # 2nd heading/sub heading of the website.
-subheader: "Elastic Designs"
+subheader: "DuoDro"
 # A description/bio of the website.
-bio: "A Jekyll theme for photographers and photo bloggers."
+bio: "Part-time photographer"
 social:
   # Your Twitter username.
   twitter_username: ""
@@ -23,9 +23,9 @@ social:
   # Your Instagram username.
   instagram_username: ""
   # GitHub username.
-  github_username: "ElasticDesigns"
+  github_username: "DuoDro"
   # Your email address.
-  email: ""
+  email: "lumijasper@gmail.com"
 
 ## Gallery Configuration ##
 # If you modify this, also modify the `default.scope.path` key below.
