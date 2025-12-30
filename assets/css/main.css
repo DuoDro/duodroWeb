@@ -112,7 +112,7 @@
 		}
 
 	body {
-		background-color: #fff;
+		background-color: oklab(45.737% -0.02886 -0.3082 / 0);
 		color: #aaa;
 	}
 
